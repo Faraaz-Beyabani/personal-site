@@ -32,7 +32,7 @@ function Footer() {
           <Stack direction="row" spacing={2}>
             <IconButton
               component={Link}
-              href="https://github.com/yourusername"
+              href="https://github.com/Faraaz-Beyabani"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"
@@ -49,7 +49,7 @@ function Footer() {
             </IconButton>
             <IconButton
               component={Link}
-              href="https://linkedin.com/in/yourusername"
+              href="https://linkedin.com/in/faraaz-beyabani/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
@@ -66,7 +66,7 @@ function Footer() {
             </IconButton>
             <IconButton
               component={Link}
-              href="mailto:your.email@example.com"
+              href="mailto:beyabanifaraaz@gmail.com"
               aria-label="Email"
               sx={{
                 color: 'white',
